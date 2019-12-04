@@ -1,3 +1,3 @@
 # Bindable
 
-A description of this package.
+Bindable is simple one way binding helper.
